@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm a political science student with a passion for tech, o
   <!-- Example Devicons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/>
 
 ---
 *Always looking for new ways to optimize my digital workspace.*
