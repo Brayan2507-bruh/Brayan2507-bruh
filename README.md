@@ -1,7 +1,9 @@
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Night-City.gif" width="100%">
+<!-- Banner GIF in alto -->
+<img src="https://media.giphy.com/media/RH7HBE9A6y22c/giphy.gif" width="100%">
 
+<!-- Titolo animato e colorato (Effetto macchina da scrivere) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Brayan!+👋;Welcome+to+my+digital+workspace!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Brayan!;Welcome+to+my+digital+workspace!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -19,11 +21,11 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/>
-  </p>
+</p>
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/joystick.gif" width="100">
+  <img 
   <br>
   <p><i>Always looking for new ways to optimize my digital workspace.</i></p>
 </div>
