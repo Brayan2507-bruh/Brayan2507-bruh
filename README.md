@@ -1,4 +1,4 @@
-# Hi there, I'm Brayan! 👋
+# Hi there, I'm Brayan! 
 
 Welcome to my GitHub! I'm a political science student with a passion for tech, open-source software, and gaming.
 
