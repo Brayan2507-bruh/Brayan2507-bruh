@@ -25,7 +25,7 @@
 
 ---
 <div align="center">
-  <img 
+  <img <img width="640" height="360" alt="boruto" src="https://github.com/user-attachments/assets/76b0520b-ce35-494b-aa64-06fe8151a3cf" />
   <br>
   <p><i>Always looking for new ways to optimize my digital workspace.</i></p>
 </div>
