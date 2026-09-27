@@ -3,7 +3,7 @@
 
 <!-- Titolo animato e colorato (Effetto macchina da scrivere) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Brayan!;Welcome+to+my+digital+workspace!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Brayan!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
