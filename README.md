@@ -14,7 +14,7 @@
 
 ### 🛠️ What I'm into:
 - 🎨 **Tech & Customization**: Modding, customizing minimal UI setups, and exploring privacy-focused tools.
-- 🕹️ **Gaming**: Cemu emulation, custom mods, platformers, and racing sims.
+- 🕹️ **Gaming**: Nintendo emulation, custom mods, platformer.
 - 📺 **Currently Watching**: Great storytelling and stunning visuals in anime and cinema.
 
 ### 💻 Tech & Tools
